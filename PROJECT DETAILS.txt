@@ -1,0 +1,29 @@
+DANCE STUDIO PROJECT
+
+INTRODUCTION:
+ Dance school is a web application, there are two types of users USER and ADMIN.
+--It provides a platform for all age groups to learn and excel in the most amazing and loved field called Dance. It has various famous choreographers available to train the candidates.
+--There are two types of services in dance school HOME and STUDIO.
+
+FUNCTIONALITY: User can register and login to website for the admission ,there user can choose his choreographer based on his preferred location and dance form.
+--User can also check the booking status , rewards , costumes status 
+--User can also able see all the feedbacks from other users and also can give his feedback and suggestions.
+--Admin can manage all the bookings, choreographers and announce the rewards for the winners.
+--Admin can also see all the feedbacks from all the users.
+
+SOFTWARE REQUIREMENTS:
+Operating System : Windows 10
+IDE : Spring Tool Suite
+Platform : Spring Boot 2.1
+Web Server : Spring Boot Integrated TomCat
+Database : In-memory database H2
+Front-End : Angular 8
+Browser : Google Chrome
+
+DATABASE URL: http://localhost:8181/h2-console/login.jsp
+(There is no password. Just click on connect)
+
+
+
+
+
