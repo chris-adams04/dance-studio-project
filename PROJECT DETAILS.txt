@@ -1,7 +1,7 @@
 DANCE STUDIO PROJECT
 
 INTRODUCTION:
- Dance school is a web application, there are two types of users USER and ADMIN.
+ Dance studio is a web application, there are two types of users USER and ADMIN.
 --It provides a platform for all age groups to learn and excel in the most amazing and loved field called Dance. It has various famous choreographers available to train the candidates.
 --There are two types of services in dance school HOME and STUDIO.
 
